@@ -14,7 +14,7 @@ Hahaaaa, ik ben eerst!
 
 
 Zin1:
-// typ hier
+TESTETSETSEtsetsetSETETSETSETETSETESTetste test
 
 Zin2:
 // typ hier
